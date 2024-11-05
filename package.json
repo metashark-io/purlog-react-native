@@ -182,5 +182,10 @@
   "create-react-native-library": {
     "type": "library",
     "version": "0.42.2"
+  },
+  "dependencies": {
+    "expo-secure-store": "~13.0.2",
+    "expo-device": "~6.0.2",
+    "expo-application": "~5.9.1"
   }
 }
